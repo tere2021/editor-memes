@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/editor-memes/static/css/main.19bcd4f7.css",
+    "main.js": "/editor-memes/static/js/main.76393f2b.js",
+    "index.html": "/editor-memes/index.html",
+    "main.19bcd4f7.css.map": "/editor-memes/static/css/main.19bcd4f7.css.map",
+    "main.76393f2b.js.map": "/editor-memes/static/js/main.76393f2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19bcd4f7.css",
+    "static/js/main.76393f2b.js"
+  ]
+}
