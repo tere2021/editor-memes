@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&display=swap");
+
+/* fuente Caligrafica */
+.tipografia {
+  font-family: "Fasthand", cursive;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 0px 5px 7px rgb(54, 53, 53);
+}
+.composicionMeme {
+  height: 550px;
+  padding: 0 20px;
+}
+
+.Meme {
+  text-align: center;
+}
+
+.imagenMeme {
+  margin: 0px auto;
+  width: 400px;
+  height: 400px;
+}
+
+#texto1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  position: absolute;
+  line-height: 1em;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-left: 270px;
+  margin-right: 100px;
+  margin-top: 10px;
+}
+
+#texto2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  position: absolute;
+  line-height: 1em;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-left: 270px;
+  margin-right: 100px;
+  margin-top: 320px;
+}
+
+
+.rotacion input {
+  width: 90px;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+  
+}
